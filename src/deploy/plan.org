@@ -1,0 +1,7 @@
+* TODO ZeroMQ for all ingest
+  Example: question from sms ->
+  	   identify as question ->
+	   answer question ->
+	   put on out queue ->
+	   respond to sms
+* TODO 

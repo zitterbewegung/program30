@@ -1,0 +1,2 @@
+* ZeroMQ for all ingest
+  Example: question from sms -> put on sms queue -> question is answered -> put on out queue
